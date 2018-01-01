@@ -1,9 +1,9 @@
-Arun Jose
-Kunnathupurayidom
-Chettuthodu P.O
-Kalalketty (via)
-686508
-Kottayam Dist
-Kerala
-India
-7559955251
+void add(int a ,int b)
+	{
+	}
+void sub(int a, int b)
+	{
+	}
+void mul(int a, int b)
+	{
+	}
